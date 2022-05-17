@@ -1,5 +1,6 @@
-p{
+.hiruiya p{
  writing-mode:vertical-rl;
+ -ms-writing-mode: tb-rl;
  color:#07f70f;
- font-size:12px;
+ font-size:50px;
 }
